@@ -4,6 +4,7 @@
 # 개발 환경
 * Linux 20.04
 * 언어: Java, Python
+* Framework: React Native
 * Node.js
 * VS Code
 * Expo
