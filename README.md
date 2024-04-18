@@ -3,7 +3,7 @@
 
 # 개발 환경
 * Ubuntu 20.04
-* 언어: Java, Python
+* 언어: Javascript, Python
 * Framework: React Native
 * Node.js
 * VS Code
