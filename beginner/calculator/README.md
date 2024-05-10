@@ -11,5 +11,5 @@ MAC OS 계산기 클론 코딩 구현
 
 
 ## 완성 프로젝트 화면
-<img src="/home/youna/Downloads/calculator.jpg" width="200" height="500"/>
+<img src="https://github.com/miso0708/react-native-apps/assets/105254224/9bffb194-d404-4cdd-8de9-518c6706bdb0" width="200" height="500"/>
 
