@@ -16,4 +16,6 @@
 
 
 ## 완성 프로젝트 화면
-<img src="https://github.com/miso0708/react-native-apps/assets/105254224/8ce877bc-9588-4905-9ff0-9a8da6c82586" width="200" height="500"/>
+<img src="https://github.com/miso0708/react-native-apps/assets/105254224/713d32aa-1aed-4869-9e06-514e4d2b9a3d" width="200" height="500"/>
+<br>
+<img src="https://github.com/miso0708/react-native-apps/assets/105254224/1a983047-9851-424f-ac55-f1661cd3be99" width="200" height="500"/>
